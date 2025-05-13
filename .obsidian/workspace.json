@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2473894db245d494",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a85d55ae94ca21b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efe45a854400f7e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript学习.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript学习"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc8b24599d2187d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bdc94ad3889d84f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32df9c3f3cc0aca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8ba474669b9d086b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "5d7e48411718db5e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b9559056473fa654",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cc9d6329c27f5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f062f435bb29c59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spring Boot.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Spring Boot 的反向链接列表"
+            }
+          },
+          {
+            "id": "194df0c5c7a92f20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spring Boot.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Spring Boot 的出链列表"
+            }
+          },
+          {
+            "id": "88ceab44372cf071",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b332b411cce125ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript学习.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "JavaScript学习 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "zk-prefixer:创建时间戳笔记": false
+    }
+  },
+  "active": "e32df9c3f3cc0aca",
+  "lastOpenFiles": [
+    "MySQL深入.md",
+    "尚硅谷vue3笔记.md",
+    "项目2总结笔记.md",
+    "Play Plan.md",
+    "JavaScript学习.md",
+    "未命名",
+    "API第一天.md",
+    "recource/Pasted image 20250413212004.png",
+    "MyBatis.md",
+    "JavaScript.md",
+    "婷狗会打字.md",
+    "骗分导论.md",
+    "~$专业与智能制造.pdf",
+    "我的专业与智能制造.md",
+    "我的专业与智能制造.pdf",
+    "Git常用指令.md",
+    "我的专业与智能制造.txt",
+    "未命名.canvas",
+    "Spring Boot.md",
+    "Spring MVC.md",
+    "Servlet.md",
+    "recource",
+    "2025-04-13.md",
+    "2025-04-14.md",
+    "骗分导论.txt",
+    "2025-03-29.md",
+    "Play Plan2.md",
+    "Play Plan2.txt",
+    "Play Plan.txt",
+    "play plan.txt",
+    "Untitled"
+  ]
+}
